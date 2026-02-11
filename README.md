@@ -1,113 +1,69 @@
-# 🚀 ML Learning Journey
+# 🧠 ML Learning Journey
 
-> My journey from ML basics to advanced - documenting everything I learn!
-> Started: February 2026 | Age: 16
-
----
-
-## 📊 Current Progress
-
-```
-[■■■■■■■□□□] 70% Regression Complete
-```
+> My complete Machine Learning learning path — from Linear Regression to Deep Learning.
 
 ---
 
-## 📚 Chapters Completed
-
-### ✅ Chapter 1: Simple Linear Regression
-- OLS Formula derivation
-- Manual m and b calculation
-- R² and RMSE understanding
-
-### ✅ Chapter 2: Multiple Linear Regression
-- Design Matrix concept
-- Matrix OLS: β = (XᵀX)⁻¹Xᵀy
-- Coefficient interpretation
-
-### ✅ Chapter 3: Regression Diagnostics
-- Residuals vs Fitted plots
-- Durbin-Watson test
-- VIF for multicollinearity
-
-### ✅ Chapter 4: Polynomial Regression
-- When linear doesn't fit
-- PolynomialFeatures usage
-- Overfitting concepts
-
-### ✅ Chapter 5: Regularization
-- Ridge (L2)
-- Lasso (L1)
-- ElasticNet
-
-### 🔄 In Progress: Evaluation Metrics
-
----
-
-## 📁 Repository Structure
+## 📂 Repository Structure
 
 ```
 ml-learning-journey/
-├── README.md
-├── quizzes/
-│   ├── chapter1_3_quiz_linear_regression.py   # Ch 1-3 practice
-│   └── chapter4_quiz_polynomial_regression.py # Ch 4 practice
-└── code/
-    └── (more files coming soon)
+├── 📋 roadmaps/                          # Learning plans & progress
+│   ├── ml_coding_roadmap.md              # Complete ML roadmap (56 topics)
+│   ├── supervised_regression_master_plan.md
+│   └── supervised_classification_roadmap.md
+│
+├── 🎯 supervised-learning/
+│   ├── regression/                        # ✅ COMPLETED
+│   │   ├── chapters/                      # Theory notes
+│   │   ├── practice/                      # Coding practice files
+│   │   │   ├── ch1_3_solutions.py         # Linear, Multiple, Assumptions
+│   │   │   ├── ch4_polynomial_quiz.py     # Polynomial Regression
+│   │   │   ├── ch4_5_practice.py          # Regularization
+│   │   │   ├── ch4_5_failure_analysis.py
+│   │   │   ├── ch4_5_sparse_signal.py
+│   │   │   ├── ch6_practice.py            # Evaluation Metrics
+│   │   │   ├── ch6_7_cross_validation.py  # Cross-Validation
+│   │   │   └── ch6_7_model_selection.py   # Model Selection
+│   │   └── images/                        # Visualizations
+│   │
+│   └── classification/                    # 🔜 NEXT
+│       ├── chapters/
+│       └── practice/
+│
+├── 🔍 unsupervised-learning/
+│   ├── clustering/                        # K-Means, Hierarchical, DBSCAN
+│   └── dimensionality-reduction/          # PCA, t-SNE
+│
+├── 🧬 deep-learning/
+│   ├── foundations/                        # NN basics, Backprop, Optimizers
+│   └── architectures/                     # CNN, RNN, LSTM, Transformers
+│
+└── 🏗️ projects/
+    ├── supervised/                         # End-to-end ML projects
+    ├── unsupervised/
+    ├── reinforcement/
+    └── trading/                           # Algorithmic trading with ML
 ```
 
 ---
 
-## 🎯 Learning Path
+## 📊 Progress
 
-Following a structured curriculum:
-1. ~~Simple Regression~~ ✅
-2. ~~Multiple Regression~~ ✅
-3. ~~Diagnostics~~ ✅
-4. ~~Polynomial Regression~~ ✅
-5. ~~Regularization~~ ✅
-6. Evaluation Metrics 🔄
-7. Cross-Validation
-8. Projects!
+| Module | Status | Topics |
+|--------|--------|--------|
+| **Regression** | ✅ Complete | Linear, Multiple, Polynomial, Regularization, Metrics, CV, Model Selection |
+| **Bridge Topics** | 🔨 In Progress | Feature Scaling, Pipelines |
+| **Classification** | 🔜 Next | Logistic Regression, Trees, SVM, KNN, Naive Bayes |
+| **Unsupervised** | ⏳ Planned | Clustering, PCA, Anomaly Detection |
+| **Deep Learning** | ⏳ Planned | Neural Networks, CNN, RNN, Transformers |
 
 ---
 
-## 📝 Quiz Scores
-
-| Chapter | Topic | Score |
-|---------|-------|-------|
-| 1-3 | Linear Regression | ✅ |
-| 4 | Polynomial Regression | 32/35 |
+## 🛠️ Tech Stack
+- Python 3.13
+- scikit-learn, NumPy, Pandas, Matplotlib
 
 ---
 
-## 💡 Key Learnings
-
-### The Matrix OLS Formula
-```
-β = (XᵀX)⁻¹Xᵀy
-
-Where:
-- X = Design Matrix (features with intercept column)
-- y = Target values
-- β = Coefficients [b, m1, m2, ...]
-```
-
-### fit() vs fit_transform() vs transform()
-```python
-# Training data: Learn + Apply
-X_train_transformed = poly.fit_transform(X_train)
-
-# Test data: ONLY Apply (never fit on test!)
-X_test_transformed = poly.transform(X_test)
-```
-
----
-
-## 🔗 Connect
-
-- GitHub: [@swstikk](https://github.com/swstikk)
-
----
-
-*Learning in public, one commit at a time! 🧠*
+*Learning journey tracked and organized with ❤️*
