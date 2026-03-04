@@ -1,1 +1,144 @@
-IiIiDQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQ0KIEdFTkUgQklPTUFSS0VSIERJU0NPVkVSWSDigJQgWU9VUiBDSEFMTEVOR0UNCiANCiBTdG9yeToNCiAgIEVrIGhvc3BpdGFsIG5lIDE1MCBwYXRpZW50cyBrYSBSTkEgc2VxdWVuY2luZyBraXlhLg0KICAgMjAwIGdlbmVzIGthIGV4cHJlc3Npb24gbWVhc3VyZSBodWEgaGFyIHBhdGllbnQga2UgbGl5ZS4NCiAgIFRhcmdldDogRGlzZWFzZSBzZXZlcml0eSBzY29yZSAoaGlnaGVyID0gd29yc2UpDQogICANCiAgIEJVVCDigJQgc2Fic2UgYmFkYSBwcm9ibGVtOg0KICAgU2lyZiBrdWNoIGdlbmVzIGFjdHVhbGx5IGRpc2Vhc2Ugc2UgcmVsYXRlZCBoYWluLg0KICAgQmFha2kgc2FiIG5vaXNlIGhhaW4gKGlycmVsZXZhbnQgZ2VuZXMpLg0KICAgDQogICBURVJBIEtBTToNCiAgIDEuIFNhaGkgbW9kZWwgdXNlIGthcmtlIGRpc2Vhc2UgcHJlZGljdCBrYXINCiAgIDIuIElkZW50aWZ5IGthciBraSBrYXVuIHNlIGdlbmVzIEFDVFVBTExZIG1hdHRlciBrYXJ0ZSBoYWluDQogICAzLiBEb2N0b3Iga28gcmVwb3J0IGRlIChsZXNzIGdlbmVzID0gbW9yZSBhY3Rpb25hYmxlKQ0KPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0NCiIiIg0KDQpmcm9tIHNrbGVhcm4ucGlwZWxpbmUgaW1wb3J0IFBpcGVsaW5lDQppbXBvcnQgbnVtcHkgYXMgbnANCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQNCmZyb20gc2tsZWFybi5kYXRhc2V0cyBpbXBvcnQgbWFrZV9yZWdyZXNzaW9uDQpmcm9tIHNrbGVhcm4ubW9kZWxfc2VsZWN0aW9uIGltcG9ydCB0cmFpbl90ZXN0X3NwbGl0LEdyaWRTZWFyY2hDVg0KZnJvbSBza2xlYXJuLnByZXByb2Nlc3NpbmcgaW1wb3J0IFN0YW5kYXJkU2NhbGVyDQpmcm9tIHNrbGVhcm4ubGluZWFyX21vZGVsIGltcG9ydCBMaW5lYXJSZWdyZXNzaW9uLCBMYXNzb0NWLCBSaWRnZSxFbGFzdGljTmV0DQpmcm9tIHNrbGVhcm4ucGlwZWxpbmUgaW1wb3J0IFBpcGVsaW5lDQpmcm9tIHNrbGVhcm4ubWV0cmljcyBpbXBvcnQgcjJfc2NvcmUsIG1lYW5fYWJzb2x1dGVfZXJyb3INCmltcG9ydCB3YXJuaW5ncw0Kd2FybmluZ3MuZmlsdGVyd2FybmluZ3MoJ2lnbm9yZScpDQoNCm5wLnJhbmRvbS5zZWVkKDQyKQ0KDQojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkA0KIyBEQVRBIOKAlCBET04nVCBDSEFOR0UgVEhJUyBCTE9DSw0KIyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZANClgsIHksIHRydWVfY29lZiA9IG1ha2VfcmVncmVzc2lvbigNCiAgICBuX3NhbXBsZXMgICA9IDE1MCwNCiAgICBuX2ZlYXR1cmVzICA9IDIwMCwNCiAgICBuX2luZm9ybWF0aXZlID0gMTUsDQogICAgbm9pc2UgICAgICAgPSAzMCwNCiAgICBjb2VmICAgICAgICA9IFRydWUsDQogICAgcmFuZG9tX3N0YXRlID0gNDINCikNCg0KWF90cmFpbiwgWF90ZXN0LCB5X3RyYWluLCB5X3Rlc3QgPSB0cmFpbl90ZXN0X3NwbGl0KA0KICAgIFgsIHksIHRlc3Rfc2l6ZT0wLjIsIHJhbmRvbV9zdGF0ZT00Mg0KKQ0KDQp0cnVlX2NhdXNhbF9nZW5lcyA9IG5wLndoZXJlKHRydWVfY29lZiAhPSAwKVswXSAgIyBDaGVhdGluZyDigJQgb25seSB0byB2ZXJpZnkgYXQgZW5kIQ0KcHJpbnQoZiJEYXRhc2V0IHJlYWR5OiB7WF90cmFpbi5zaGFwZVswXX0gdHJhaW4sIHtYX3Rlc3Quc2hhcGVbMF19IHRlc3QgcGF0aWVudHMiKQ0KcHJpbnQoZiJGZWF0dXJlczoge1guc2hhcGVbMV19IGdlbmVzIHwgVGFyZ2V0IHJhbmdlOiB7eS5taW4oKTouMGZ9IHRvIHt5Lm1heCgpOi4wZn0iKQ0KcHJpbnQoZiIoVGhlcmUgYXJlIHtsZW4odHJ1ZV9jYXVzYWxfZ2VuZXMpfSB0cnVlIGNhdXNhbCBnZW5lcyDigJQgZmluZCB0aGVtISlcbiIpDQoNCiMg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQDQojIFRBU0sgMTogQmFzZWxpbmUg4oCUIFBsYWluIExpbmVhciBSZWdyZXNzaW9uDQojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkA0KDQpvbHM9TGluZWFyUmVncmVzc2lvbigpDQpvbHMuZml0KFhfdHJhaW4seV90cmFpbikNCnByaW50KGYicjJ0cmFpbiB7b2xzLnNjb3JlKFhfdHJhaW4seV90cmFpbil9IHIyIHRlc3Qge29scy5zY29yZShYX3Rlc3QseV90ZXN0KX0iKQ0KDQojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkA0KIyBUQVNLIDI6IExhc3NvIFJlZ3Jlc3Npb24gKExhc3NvQ1YpDQojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkA0KDQpsYXNzb19waXBlPVBpcGVsaW5lKFsNCiAgICAoJ3NjYWxlcicsU3RhbmRhcmRTY2FsZXIoKSksDQogICAgKCdsYXNzbycsIExhc3NvQ1YoY3Y9NSkpDQpdKQ0KbGFzc29fcGlwZS5maXQoWF90cmFpbix5X3RyYWluKQ0KY29lZj1sYXNzb19waXBlLm5hbWVkX3N0ZXBzWydsYXNzbyddLmNvZWZfDQoNCiMg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQDQojIFRBU0sgMzogVmVyaWZ5DQojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkA0KDQpub25femVybz1ucC53aGVyZShjb2VmICE9IDApWzBdDQpjb3JyZWN0bHlfZm91bmQgPSBucC5pbnRlcnNlY3QxZChub25femVybywgdHJ1ZV9jYXVzYWxfZ2VuZXMpDQpmYWxzZV9wb3NpdGl2ZXMgPSBucC5zZXRkaWZmMWQobm9uX3plcm8sIHRydWVfY2F1c2FsX2dlbmVzKQ0KbWlzc2VkX2dlbmVzID0gbnAuc2V0ZGlmZjFkKHRydWVfY2F1c2FsX2dlbmVzLCBub25femVybykNCg0KcHJpbnQoZiJDb3JyZWN0bHkgaWRlbnRpZmllZDoge2xlbihjb3JyZWN0bHlfZm91bmQpfSAvIHtsZW4odHJ1ZV9jYXVzYWxfZ2VuZXMpfSIpDQpwcmludChmIkZhbHNlIFBvc2l0aXZlczoge2xlbihmYWxzZV9wb3NpdGl2ZXMpfSIpDQpwcmludChmIk1pc3NlZCBHZW5lczoge2xlbihtaXNzZWRfZ2VuZXMpfSIpDQpwcmludChmInIydHJhaW4ge2xhc3NvX3BpcGUuc2NvcmUoWF90cmFpbix5X3RyYWluKX0gcjIgdGVzdCB7bGFzc29fcGlwZS5zY29yZShYX3Rlc3QseV90ZXN0KX0iKQ0KDQojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkA0KIyBUQVNLIDQ6IFJpZGdlIENvbXBhcmlzb24NCiMg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQDQoNCmFscGhhcz1bMC4xLDEsMTAsMTAwLDEwMDBdDQpmb3IgaSBpbiBhbHBoYXM6DQogICAgcGlwZT1QaXBlbGluZShbKCdzY2FsYXInLFN0YW5kYXJkU2NhbGVyKCkpLCgncmlkZ2UnLFJpZGdlKGFscGhhPWkpKV0pDQogICAgcGlwZS5maXQoWF90cmFpbix5X3RyYWluKQ0KICAgIHByaW50KGYiYWxwaGE9e2l9IHRlc3RfcjI9e3BpcGUuc2NvcmUoWF90ZXN0LHlfdGVzdCk6LjNmfSBub256ZXJvPXtucC5zdW0obnAuYWJzKHBpcGUubmFtZWRfc3RlcHNbJ3JpZGdlJ10uY29lZl8pPjAuMDF9IikNCiMgTGFzc28gYmV0dGVyOiBSaWRnZSBuZXZlciB6ZXJvcyBvdXQgZ2VuZXMgKG5vdCBpbnRlcnByZXRhYmxlKQ0KDQojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkA0KIyBUQVNLIDU6IEVsYXN0aWNOZXQgKyBHcmlkU2VhcmNoQ1YNCiMg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQDQoNCnBhcmFtZ2QgPSB7DQogICAgJ2VsYXN0aWNuZXRfX2FscGhhJzogWzAuMDAxLCAwLjAwNSwgMC4wMSwgMC4wNSwgMC4xLCAwLjUsIDEsIDUsIDEwXSwNCiAgICAnZWxhc3RpY25ldF9fbDFfcmF0aW8nOiBbMC4yLCAwLjUsIDAuNywgMC45LCAwLjk1LCAxLjBdDQp9DQpwaXBlZ2QgPSBQaXBlbGluZShbKCdzY2FsZXInLCBTdGFuZGFyZFNjYWxlcigpKSwgKCdlbGFzdGljbmV0JywgRWxhc3RpY05ldChtYXhfaXRlcj0xMDAwMCkpXSkNCmdkcyA9IEdyaWRTZWFyY2hDVihwaXBlZ2QsIHBhcmFtX2dyaWQ9cGFyYW1nZCwgY3Y9NSwgc2NvcmluZz0ncjInKQ0KZ2RzLmZpdChYX3RyYWluLCB5X3RyYWluKQ0KDQplbmV0X3Rlc3RfcjIgPSByMl9zY29yZSh5X3Rlc3QsIGdkcy5iZXN0X2VzdGltYXRvcl8ucHJlZGljdChYX3Rlc3QpKQ0KbGFzc29fdGVzdF9yMiA9IGxhc3NvX3BpcGUuc2NvcmUoWF90ZXN0LCB5X3Rlc3QpDQpwcmludChmIkJlc3Q6IHtnZHMuYmVzdF9wYXJhbXNffSIpDQpwcmludChmIkVsYXN0aWNOZXQgVGVzdCBSMjoge2VuZXRfdGVzdF9yMjouM2Z9ICB8ICBMYXNzbyBUZXN0IFIyOiB7bGFzc29fdGVzdF9yMjouM2Z9IikNCnByaW50KGYiV2lubmVyOiB7J0VsYXN0aWNOZXQnIGlmIGVuZXRfdGVzdF9yMiA+IGxhc3NvX3Rlc3RfcjIgZWxzZSAnTGFzc28nfSIpDQoNCiMg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQDQojIFRBU0sgNjogUGxvdA0KIyDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZDilZANCg0KcHJlZCA9IGxhc3NvX3BpcGUucHJlZGljdChYX3Rlc3QpDQpwbHQuZmlndXJlKGZpZ3NpemU9KDcsIDYpKQ0KcGx0LnNjYXR0ZXIoeV90ZXN0LCBwcmVkLCBhbHBoYT0wLjcsIGVkZ2Vjb2xvcnM9J2snLCBsaW5ld2lkdGg9MC41LCBjb2xvcj0nc3RlZWxibHVlJykNCmxvID0gbWluKHlfdGVzdC5taW4oKSwgcHJlZC5taW4oKSkNCmhpID0gbWF4KHlfdGVzdC5tYXgoKSwgcHJlZC5tYXgoKSkNCnBsdC5wbG90KFtsb28gaGldLCBbbG8sIGhpXSwgJ3ItLScsIGxpbmV3aWR0aD0yLCBsYWJlbD0nUGVyZmVjdCBwcmVkaWN0aW9uJykNCnBsdC54bGFiZWwoJ0FjdHVhbCBEaXNlYXNlIFNjb3JlJykNCnBsdC55bGFiZWwoJ1ByZWRpY3RlZCBEaXNlYXNlIFNjb3JlJykNCnBsdC50aXRsZShmJ0xhc3NvOiBBY3R1YWwgdnMgUHJlZGljdGVkXG5UZXN0IFIyID0ge3IyX3Njb3JlKHlfdGVzdCwgcHJlZCk6LjNmfScpDQpwbHQubGVnZW5kKCkNCnBsdC5ncmlkKFRydWUsIGFscGhhPTAuMykNCnBsdC50aWdodF9sYXlvdXQoKQ0KcGx0LnNob3coKQ0KDQojIOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkOKVkA0KIyBUQVNLIDc6IEJpb21hcmtlciBSZXBvcnQNCiMg4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWQDQoNCmdlbmVfbmFtZXMgPSBbZiJHZW5lX3tpOjAzZH0iIGZvciBpIGluIHJhbmdlKFguc2hhcGVbMV0pXQ0Kbm9uX3plcm9faWRzID0gbnAud2hlcmUoY29lZiAhPSAwKVswXQ0KZ2VuZV9pbXBvcnRhbmNlID0gWyhnZW5lX25hbWVzW2ldLCBhYnMoY29lZltpXSksIGkgaW4gdHJ1ZV9jYXVzYWxfZ2VuZXMpIGZvciBpIGluIG5vbl96ZXJvX2lkc10NCmdlbmVfaW1wb3J0YW5jZV9zb3J0ZWQgPSBzb3J0ZWQoZ2VuZV9pbXBvcnRhbmNlLCBrZXk9bGFtYmRhIHg6IC14WzFdKQ0KDQpwcmludChmIlxueydSYW5rJzo8Nn0geyAnR2VuZSc6PDEyfSB7J0ltcG9ydGFuY2UnOj4xMn0gIHsnUmVhbCBDYXVzZT8nfSIpDQpwcmludCgiLSIgKiA0OCkNCmZvciByYW5rLCAoZ2VuZSwgaW1wLCBpc19yZWFsKSBpbiBlbnVtZXJhdGUoZ2VuZV9pbXBvcnRhbmNlX3NvcnRlZFs6MTBdLCAxKToNCiAgICBiYXIgPSAi4paIIiAqIGludChpbXAgLyBnZW5lX2ltcG9ydGFuY2Vfc29ydGVkWzBdWzFdICogMTUpDQogICAgdmVyZGljdCA9ICLinJMgWUVTIiBpZiBpc19yZWFsIGVsc2UgIuKclyBGYWxzZSBwb3NpdGl2ZSINCiAgICBwcmludChmIntyYW5rOjw2fSB7Z2VuZTo8MTJ9IHtpbXA6PjEyLjJmfSAge3ZlcmRpY3R9ICB7YmFyfSIpDQoNCnByaW50KCJcbkRvbmUhIikNCg==
+"""
+=================================================================
+ GENE BIOMARKER DISCOVERY PROJECT
+ 
+ Problem:
+   150 patients ka RNA sequencing kiya gaya.
+   200 genes ka expression measure hua har patient ke liye.
+   Target: Disease severity score (higher = worse)
+   
+   Sirf 15 genes actually disease se related hain.
+   Baaki 185 = noise (irrelevant genes).
+   
+   Task:
+   1. Sahi model use karke disease predict karo
+   2. Identify karo ki kaun se genes ACTUALLY matter karte hain
+   3. Doctor ko report do (less genes = more actionable)
+=================================================================
+"""
+
+from sklearn.pipeline import Pipeline
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.datasets import make_regression
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.preprocessing import StandardScaler
+from sklearn.linear_model import LinearRegression, LassoCV, Ridge, ElasticNet
+from sklearn.metrics import r2_score, mean_absolute_error
+import warnings
+warnings.filterwarnings('ignore')
+
+np.random.seed(42)
+
+# ═══════════════════════════════════════
+# DATA
+# ═══════════════════════════════════════
+X, y, true_coef = make_regression(
+    n_samples=150,
+    n_features=200,
+    n_informative=15,
+    noise=30,
+    coef=True,
+    random_state=42
+)
+
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.2, random_state=42
+)
+
+true_causal_genes = np.where(true_coef != 0)[0]
+print(f"Dataset ready: {X_train.shape[0]} train, {X_test.shape[0]} test patients")
+print(f"Features: {X.shape[1]} genes | Target range: {y.min():.0f} to {y.max():.0f}")
+print(f"(There are {len(true_causal_genes)} true causal genes)\n")
+
+# ═══════════════════════════════════════
+# TASK 1: Baseline — Plain Linear Regression
+# ═══════════════════════════════════════
+ols = LinearRegression()
+ols.fit(X_train, y_train)
+print(f"r2train {ols.score(X_train,y_train):.3f} r2 test {ols.score(X_test,y_test):.3f}")
+# r2train 1.0 r2 test ~0.58 → overfit!
+
+# ═══════════════════════════════════════
+# TASK 2: Lasso Regression (LassoCV)
+# ═══════════════════════════════════════
+lasso_pipe = Pipeline([
+    ('scaler', StandardScaler()),
+    ('lasso', LassoCV(cv=5))
+])
+lasso_pipe.fit(X_train, y_train)
+coef = lasso_pipe.named_steps['lasso'].coef_
+
+# ═══════════════════════════════════════
+# TASK 3: Verify — Did Lasso find the right genes?
+# ═══════════════════════════════════════
+non_zero = np.where(coef != 0)[0]
+correctly_found = np.intersect1d(non_zero, true_causal_genes)
+false_positives = np.setdiff1d(non_zero, true_causal_genes)
+missed_genes = np.setdiff1d(true_causal_genes, non_zero)
+
+print(f"Correctly identified: {len(correctly_found)} / {len(true_causal_genes)}")
+print(f"False Positives: {len(false_positives)}")
+print(f"Missed Genes: {len(missed_genes)}")
+print(f"r2train {lasso_pipe.score(X_train,y_train):.3f} r2 test {lasso_pipe.score(X_test,y_test):.3f}")
+
+# ═══════════════════════════════════════
+# TASK 4: Ridge Comparison
+# ═══════════════════════════════════════
+alphas = [0.1, 1, 10, 100, 1000]
+for i in alphas:
+    pipe = Pipeline([('scaler', StandardScaler()), ('ridge', Ridge(alpha=i))])
+    pipe.fit(X_train, y_train)
+    print(f"alpha={i} test_r2={pipe.score(X_test,y_test):.3f} nonzero={np.sum(np.abs(pipe.named_steps['ridge'].coef_)>0.01)}")
+# Lasso better: Ridge never zeros out genes (not interpretable)
+
+# ═══════════════════════════════════════
+# TASK 5: ElasticNet + GridSearchCV
+# ═══════════════════════════════════════
+paramgd = {
+    'elasticnet__alpha': [0.001, 0.005, 0.01, 0.05, 0.1, 0.5, 1, 5, 10],
+    'elasticnet__l1_ratio': [0.2, 0.5, 0.7, 0.9, 0.95, 1.0]
+}
+pipegd = Pipeline([('scaler', StandardScaler()), ('elasticnet', ElasticNet(max_iter=10000))])
+gds = GridSearchCV(pipegd, param_grid=paramgd, cv=5, scoring='r2')
+gds.fit(X_train, y_train)
+
+enet_test_r2 = r2_score(y_test, gds.best_estimator_.predict(X_test))
+lasso_test_r2 = lasso_pipe.score(X_test, y_test)
+print(f"Best: {gds.best_params_}")
+print(f"ElasticNet Test R2: {enet_test_r2:.3f}  |  Lasso Test R2: {lasso_test_r2:.3f}")
+print(f"Winner: {'ElasticNet' if enet_test_r2 > lasso_test_r2 else 'Lasso'}")
+
+# ═══════════════════════════════════════
+# TASK 6: Plot — Actual vs Predicted
+# ═══════════════════════════════════════
+pred = lasso_pipe.predict(X_test)
+plt.figure(figsize=(7, 6))
+plt.scatter(y_test, pred, alpha=0.7, edgecolors='k', linewidth=0.5, color='steelblue')
+lo = min(y_test.min(), pred.min())
+hi = max(y_test.max(), pred.max())
+plt.plot([lo, hi], [lo, hi], 'r--', linewidth=2, label='Perfect prediction')
+plt.xlabel('Actual Disease Score')
+plt.ylabel('Predicted Disease Score')
+plt.title(f'Lasso: Actual vs Predicted\nTest R2 = {r2_score(y_test, pred):.3f}')
+plt.legend()
+plt.grid(True, alpha=0.3)
+plt.tight_layout()
+plt.show()
+
+# ═══════════════════════════════════════
+# TASK 7: Biomarker Report
+# ═══════════════════════════════════════
+gene_names = [f"Gene_{i:03d}" for i in range(X.shape[1])]
+non_zero_ids = np.where(coef != 0)[0]
+gene_importance = [(gene_names[i], abs(coef[i]), i in true_causal_genes) for i in non_zero_ids]
+gene_importance_sorted = sorted(gene_importance, key=lambda x: -x[1])
+
+print(f"\n{'Rank':<6} {'Gene':<12} {'Importance':>12}  {'Real Cause?'}")
+print("-" * 48)
+for rank, (gene, imp, is_real) in enumerate(gene_importance_sorted[:10], 1):
+    bar = "=" * int(imp / gene_importance_sorted[0][1] * 15)
+    verdict = "YES" if is_real else "False positive"
+    print(f"{rank:<6} {gene:<12} {imp:>12.2f}  {verdict}  {bar}")
+
+print("\nDone!")
